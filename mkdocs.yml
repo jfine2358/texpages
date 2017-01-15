@@ -6,3 +6,10 @@ pages:
   - myTUG:
       - Home: mytug/index.md
       - Math: mytug/math.md
+
+# To avoid mixed content https error, get MathJax via https.
+extra_javascript:
+    - https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+
+markdown_extensions:
+    - mdx_math
