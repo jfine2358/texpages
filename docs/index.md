@@ -1,17 +1,7 @@
-# Welcome to MkDocs
+# My TeX pages
 
-For full documentation visit [mkdocs.org](http://mkdocs.org).
+This project contains my TeX web pages, and my contributions to the
+[TeX Users Group](http:www.tug.org) website.
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs help` - Print this help message.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+This project is on github as
+[jfine2358/texpages](https://github.com/jfine2358/texpages).
