@@ -9,4 +9,20 @@
     </url>
     
 
+    
+        
+    <url>
+     <loc>/mytug/</loc>
+     <lastmod>2017-01-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    <url>
+     <loc>/mytug/math/</loc>
+     <lastmod>2017-01-15</lastmod>
+     <changefreq>daily</changefreq>
+    </url>
+        
+    
+
 </urlset>

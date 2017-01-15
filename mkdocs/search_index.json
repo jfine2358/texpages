@@ -9,6 +9,31 @@
             "location": "/#my-tex-pages",
             "text": "This project contains my TeX web pages, and my contributions to the TeX Users Group  website.  This project is on github as jfine2358/texpages .",
             "title": "My TeX pages"
+        },
+        {
+            "location": "/mytug/",
+            "text": "myTUG\n\n\nTUG is the \nTeX Users Group\n. I am a member (but\nnot an officer) of TUG.\n\n\nThese pages are \nMY\n suggestions for improving the TUG website. They\nare \nNOT\n official TUG pages.\n\n\nI hope they will help TUG with its web site.\n\n\nAbout TeX\n\n\nTeX is easy to use and excellent for \ntypesetting\nmathematics",
+            "title": "Home"
+        },
+        {
+            "location": "/mytug/#mytug",
+            "text": "TUG is the  TeX Users Group . I am a member (but\nnot an officer) of TUG.  These pages are  MY  suggestions for improving the TUG website. They\nare  NOT  official TUG pages.  I hope they will help TUG with its web site.",
+            "title": "myTUG"
+        },
+        {
+            "location": "/mytug/#about-tex",
+            "text": "TeX is easy to use and excellent for  typesetting\nmathematics",
+            "title": "About TeX"
+        },
+        {
+            "location": "/mytug/math/",
+            "text": "Mathematics\n\n\nTeX is easy to use and excellent at typesetting mathematics. For\nexample, the quadratic equation \nax^2 + bx +c = 0\n has solutions\n\n\n  x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.\n\n\n\n\n\nWith TeX you type math as a sequence, much as you think or say them.\nTo get this input, type\n\n\nthe quadratic equation \\(ax^2 + bx +c = 0\\) has solutions\n\\[\n  x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.\n\\]\n\n\n\n\nWith TeX, you can keep your hands on the keyboard. No more clumsy\nfiddling with the trackpad on your laptop.",
+            "title": "Math"
+        },
+        {
+            "location": "/mytug/math/#mathematics",
+            "text": "TeX is easy to use and excellent at typesetting mathematics. For\nexample, the quadratic equation  ax^2 + bx +c = 0  has solutions \n  x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.   With TeX you type math as a sequence, much as you think or say them.\nTo get this input, type  the quadratic equation \\(ax^2 + bx +c = 0\\) has solutions\n\\[\n  x = \\frac{-b \\pm \\sqrt{b^2 - 4ac}}{2a}.\n\\]  With TeX, you can keep your hands on the keyboard. No more clumsy\nfiddling with the trackpad on your laptop.",
+            "title": "Mathematics"
         }
     ]
 }
