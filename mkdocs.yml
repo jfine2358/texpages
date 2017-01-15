@@ -1,2 +1,8 @@
 site_name: TeX (@jfine2358)
 copyright: 2017 Jonathan Fine
+
+pages:
+  - Home: index.md
+  - myTUG:
+      - Home: mytug/index.md
+      - Math: mytug/math.md
